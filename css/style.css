@@ -1,0 +1,33 @@
+.cuerpo{
+    height: 95%;
+}
+
+.imagen{
+    background-image: url(../img/mujer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondo{
+    background-color: #fafafa;
+}
+
+.footer{
+    height: 5%;
+    background-color: #000;
+}
+
+.form-control:focus{
+    border-color: #b007ff;
+    box-shadow: inset 0 1px 1px rgba(197, 7, 255, 0.075), 0 0 7px rgba(247, 7, 255, 0.6);
+}
+
+.btn-primary:hover{
+    background-color: #b007ff;
+    border-color: #b007ff;
+}
+
+.btn-primary{
+    background-color: #8908c5;
+    border-color: #8908c5;
+}
